@@ -1,6 +1,6 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-**Add a cover photo like:**
+**My first attempt:**
 ![My first attempt](result.png)
 
 # Day 3 - first attempt on a pratice exam
