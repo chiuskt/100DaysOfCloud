@@ -11,7 +11,7 @@ I spent a few days to learn the fundamentals on AZ-900 and took a pratice exam o
 
 ## Cloud Research
 
-The practice exam consists of 55 multiple choice questions (which I think is simpler than a normal exam). I thought I did a good job based on the amount of time I spent to study. There are so much things to memerise and I think I have to work harder to pass the real exam. Especially on the core solution and cost management.
+The practice exam consists of 55 multiple choice questions (which I think is simpler than a normal exam). I thought I did a good job based on the amount of time I spent to study. There are so much things to memorise and I think I have to work harder to pass the real exam. Especially on the core solution and cost management.
 
 ## Social Proof
 
