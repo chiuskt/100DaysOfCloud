@@ -1,6 +1,6 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-**More attempts:**
+**My badge:**
 ![AZ-900 Badge](badge.png)
 
 # Day 5 - Completed AZ-900!
